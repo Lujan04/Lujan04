@@ -1,5 +1,5 @@
 <h1 align="center">Lujan Aleu Castillo</h1>
-<h2 align="center">Cross-platform Developer</h2>
+<h3 align="center">Cross-platform Developer</h3>
 
 
 
