@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lujan Aleu Castillo</h1>
+<h1 align="center">Lujan Aleu Castillo</h1>
 <h3 align="center">Cross-platform Developer</h3>
 
 <h3 align="left">Contacta conmigo:</h3>
