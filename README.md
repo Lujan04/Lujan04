@@ -8,7 +8,7 @@
 <h3 align="center" style="font-family: Alexandria;">Languages and Tools:</h3>
 
 <p align="center">
-  <!-- Fila 1 -->
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 0 15px;"/>
   </a>
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <!-- Fila 2 -->
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 0 15px;"/>
   </a>
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center" style="font-family: Alexandria;">
-  📧 <strong><a href="mailto:lujancastillo2015@gmail.com">lujancastillo2015@gmail.com</a></strong>
+  <strong><a href="mailto:lujancastillo2015@gmail.com">lujancastillo2015@gmail.com</a></strong>
 </p>
 
 <p align="center">
