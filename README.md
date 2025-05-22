@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alexandria&weight=600&size=25&duration=3500&pause=300&color=F7E567&center=true&vCenter=true&multiline=true&width=435&lines=Lujan+Aleu+Castillo;Cross+Platform+Developer" alt="Typing SVG" /></a>
+<!-- Texto animado centrado con dos líneas -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Alexandria&weight=600&size=25&duration=3500&pause=300&color=F7E567&center=true&vCenter=true&multiline=true&width=435&lines=Lujan+Aleu+Castillo;Cross+Platform+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
