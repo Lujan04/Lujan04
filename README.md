@@ -47,18 +47,14 @@
 
 <h3 align="center">Contact:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/lujan-aleu-castillo/" target="blank">
+  <a href="https://linkedin.com/in/lujan-aleu-castillo/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-
-  <!-- Botón para copiar Gmail -->
-  <button onclick="navigator.clipboard.writeText('lujancastillo2015@gmail.com')" style="margin-left: 10px; background-color: #0072b1; color: white; border: none; border-radius: 5px; padding: 5px 10px; cursor: pointer;">
-    Copiar Gmail
-  </button>
 </p>
 
-<!-- Notas: GitHub solo ejecuta JavaScript en GitHub Pages, no en el README -->
-<!-- Puedes usar este botón en tu portfolio personal. En GitHub no funcionará por limitaciones de seguridad -->
+<p align="center">
+  📧 <strong>lujancastillo2015@gmail.com</strong>
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lujan04&show_icons=true&theme=dark&locale=en&layout=compact" alt="lujan04" />
